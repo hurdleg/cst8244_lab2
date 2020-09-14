@@ -6,6 +6,7 @@ int main(void) {
 	puts("Hello World from QNX Neutrino RTOS!!!"); /* prints Hello World!!! */
 
 	puts( "\n@author Gerald Hurdle (hurdleg@algonquincollege.com)" );
+	puts( "pushed to GitHub.com" );
 	puts( "I like to walk my dog Leo." );
 	puts( "" );
 
